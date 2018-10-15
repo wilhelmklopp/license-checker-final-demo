@@ -16,6 +16,7 @@
     "query-string": "^6.2.0",
     "axios": "latest",
     "node-red": "latest",
-    "wappalyzer": "latest"
+    "wappalyzer": "latest",
+    "goat.js": "latest"
   }
 }
