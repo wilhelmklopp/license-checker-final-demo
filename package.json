@@ -17,6 +17,7 @@
     "axios": "latest",
     "node-red": "latest",
     "wappalyzer": "latest",
-    "goat.js": "latest"
+    "goat.js": "latest",
+    "request": "latest"
   }
 }
